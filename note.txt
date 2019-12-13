@@ -43,6 +43,7 @@
             |  |--Resources.js
             |  |--ResourceLoader.js
             |  |--Sprite.js
+            |  |--DataStore.js
             |--player/
             |  |--Birds.js
             |  |--Score.js
