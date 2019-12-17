@@ -62,6 +62,11 @@
         |--Main.js
 
 
-
+从VSCode转移到开发者工具:
+  Main:
+    document.getElementById()===>wx.createCanvas()
+    add.EventListener===>wx.onTouchStart(e=>{})
+  ResourceLoader:
+    new Image()===>wx.createImage()
 
 
